@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1 class="text-center mt-4 mb-4">Create an Article</h1>
+    <form action="" method="post">
+        {% csrf_token %}
+        <p>Are you suer for deleting - {{ object.list }}</p>
+        <input type="submit" class="btn btn-sm btn-block btn-primary mt-4" value="Yes Delete">
+    </form>
+    <br>
+    <a href="{% url 'articles:list' %}" class="btn btn-sm btn-block btn-secondary mt-4">Back To Article List </a>
+   
+{% endblock content %}

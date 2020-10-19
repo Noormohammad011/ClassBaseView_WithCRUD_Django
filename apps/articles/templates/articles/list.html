@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+<h1 class="text-center mt-4 mb-4">Available Articles</h1>
+<ul class="list-group">
+    {% for x in object_list %}
+    <li class="list-group-item  ">
+        <div class="d-flex justify-content-between">
+            <div>
+                <a href="{% url 'articles:detail' pk=x.id slug=x.slug %}" class="list-group-item">
+                    {{ forloop.counter }}- {{ x.title }}
+                </a>
+            </div>
+            <div>
+                <a href="{% url 'articles:delete' pk=x.id slug=x.slug %}" class="list-group-item">Delete</a>
+            </div>
+        </div>
+    </li>
+    {% endfor %}
+</ul>
+<a href="{% url 'articles:create' %}" class="btn btn-sm btn-primary btn-block mt-4">Create An Article</a>
+{% endblock content %}

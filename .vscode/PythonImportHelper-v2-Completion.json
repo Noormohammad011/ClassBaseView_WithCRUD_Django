@@ -1,0 +1,1343 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {
+            "value": "\n```python\nimport django.db.models.deletion\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Article",
+        "importPath": "apps.articles.models",
+        "description": "apps.articles.models",
+        "isExtraImport": true,
+        "detail": "apps.articles.models",
+        "documentation": {
+            "value": "\n```python\nimport apps.articles.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Article",
+        "importPath": "apps.articles.models",
+        "description": "apps.articles.models",
+        "isExtraImport": true,
+        "detail": "apps.articles.models",
+        "documentation": {
+            "value": "\n```python\nimport apps.articles.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Comment",
+        "importPath": "apps.articles.models",
+        "description": "apps.articles.models",
+        "isExtraImport": true,
+        "detail": "apps.articles.models",
+        "documentation": {
+            "value": "\n```python\nimport apps.articles.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Article",
+        "importPath": "apps.articles.models",
+        "description": "apps.articles.models",
+        "isExtraImport": true,
+        "detail": "apps.articles.models",
+        "documentation": {
+            "value": "\n```python\nimport apps.articles.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {
+            "value": "\n```python\nimport django.apps\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {
+            "value": "\n```python\nimport django\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_unique_slug",
+        "importPath": "DjangoClass.utils",
+        "description": "DjangoClass.utils",
+        "isExtraImport": true,
+        "detail": "DjangoClass.utils",
+        "documentation": {
+            "value": "\n```python\nimport DjangoClass.utils\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {
+            "value": "\n```python\nimport django.test\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {
+            "value": "\n```python\nimport datetime\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ContactForm",
+        "importPath": "apps.articles.forms",
+        "description": "apps.articles.forms",
+        "isExtraImport": true,
+        "detail": "apps.articles.forms",
+        "documentation": {
+            "value": "\n```python\nimport apps.articles.forms\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ContactForm",
+        "importPath": "apps.articles.forms",
+        "description": "apps.articles.forms",
+        "isExtraImport": true,
+        "detail": "apps.articles.forms",
+        "documentation": {
+            "value": "\n```python\nimport apps.articles.forms\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {
+            "value": "\n```python\nimport django.http\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "View",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {
+            "value": "\n```python\nimport django.views\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DetailView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "FormView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TemplateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "UpdateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DeleteView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PublicMixin",
+        "importPath": "DjangoClass.mixins",
+        "description": "DjangoClass.mixins",
+        "isExtraImport": true,
+        "detail": "DjangoClass.mixins",
+        "documentation": {
+            "value": "\n```python\nimport DjangoClass.mixins\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PageTitleMixin",
+        "importPath": "DjangoClass.mixins",
+        "description": "DjangoClass.mixins",
+        "isExtraImport": true,
+        "detail": "DjangoClass.mixins",
+        "documentation": {
+            "value": "\n```python\nimport DjangoClass.mixins\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PageTitleMixin",
+        "importPath": "DjangoClass.mixins",
+        "description": "DjangoClass.mixins",
+        "isExtraImport": true,
+        "detail": "DjangoClass.mixins",
+        "documentation": {
+            "value": "\n```python\nimport DjangoClass.mixins\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": ":",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": ":",
+        "description": ":",
+        "detail": ":",
+        "documentation": {
+            "value": "\n```python\nimport :\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "View",
+        "importPath": "apps.articles.forms import ContactForm from django.views",
+        "description": "apps.articles.forms import ContactForm from django.views",
+        "isExtraImport": true,
+        "detail": "apps.articles.forms import ContactForm from django.views",
+        "documentation": {
+            "value": "\n```python\nimport apps.articles.forms import ContactForm from django.views\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {
+            "value": "\n```python\nimport os\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.asgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImproperlyConfigured",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {
+            "value": "\n```python\nimport django.core.exceptions\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {
+            "value": "\n```python\nimport pathlib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {
+            "value": "\n```python\nimport django.conf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {
+            "value": "\n```python\nimport django.conf.urls.static\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {
+            "value": "\n```python\nimport django.utils.text\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.wsgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {
+            "value": "\n```python\nimport site\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {
+            "value": "\n```python\nimport sys\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {
+            "value": "\n```python\nimport warnings\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "management",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {
+            "value": "\n```python\nimport django.core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apps.articles.migrations.0001_initial",
+        "description": "apps.articles.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Article',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=150)),",
+        "detail": "apps.articles.migrations.0001_initial",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Article',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=150)),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apps.articles.migrations.0002_auto_20201019_1223",
+        "description": "apps.articles.migrations.0002_auto_20201019_1223",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('articles', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='article',\n            name='slug',\n            field=models.SlugField(blank=True, null=True),\n        ),",
+        "detail": "apps.articles.migrations.0002_auto_20201019_1223",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.migrations.0002_auto_20201019_1223 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('articles', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='article',\n            name='slug',\n            field=models.SlugField(blank=True, null=True),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apps.articles.migrations.0003_auto_20201019_1251",
+        "description": "apps.articles.migrations.0003_auto_20201019_1251",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('articles', '0002_auto_20201019_1223'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='article',\n            name='slug',\n            field=models.SlugField(default=1, max_length=140, unique=True),\n            preserve_default=False,",
+        "detail": "apps.articles.migrations.0003_auto_20201019_1251",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.migrations.0003_auto_20201019_1251 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('articles', '0002_auto_20201019_1223'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='article',\n            name='slug',\n            field=models.SlugField(default=1, max_length=140, unique=True),\n            preserve_default=False,\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apps.articles.migrations.0004_auto_20201019_1252",
+        "description": "apps.articles.migrations.0004_auto_20201019_1252",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('articles', '0003_auto_20201019_1251'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='article',\n            name='slug',\n            field=models.SlugField(blank=True, null=True, unique=True),\n        ),",
+        "detail": "apps.articles.migrations.0004_auto_20201019_1252",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.migrations.0004_auto_20201019_1252 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('articles', '0003_auto_20201019_1251'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='article',\n            name='slug',\n            field=models.SlugField(blank=True, null=True, unique=True),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apps.articles.migrations.0005_comment",
+        "description": "apps.articles.migrations.0005_comment",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('articles', '0004_auto_20201019_1252'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Comment',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('comment', models.TextField(max_length=677)),",
+        "detail": "apps.articles.migrations.0005_comment",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.migrations.0005_comment import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('articles', '0004_auto_20201019_1252'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Comment',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('comment', models.TextField(max_length=677)),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ArticlesConfig",
+        "kind": 6,
+        "importPath": "apps.articles.apps",
+        "description": "apps.articles.apps",
+        "peekOfCode": "class ArticlesConfig(AppConfig):\n    name = 'articles'",
+        "detail": "apps.articles.apps",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.apps import ArticlesConfig\n```\n\n```python\n\n\n```\n\n```python\nclass ArticlesConfig(AppConfig):\n    name = 'articles'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ContactForm",
+        "kind": 6,
+        "importPath": "apps.articles.forms",
+        "description": "apps.articles.forms",
+        "peekOfCode": "class ContactForm(forms.Form):\n    name = forms.CharField()\n    message = forms.CharField(widget=forms.Textarea())",
+        "detail": "apps.articles.forms",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.forms import ContactForm\n```\n\n```python\n\n\n```\n\n```python\nclass ContactForm(forms.Form):\n    name = forms.CharField()\n    message = forms.CharField(widget=forms.Textarea())\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Article",
+        "kind": 6,
+        "importPath": "apps.articles.models",
+        "description": "apps.articles.models",
+        "peekOfCode": "class Article(models.Model):\n    title = models.CharField(max_length=150)\n    slug = models.SlugField(blank=True, null=True, unique=True)\n    body = models.TextField(max_length=500)\n    is_public = models.BooleanField(default=True)\n    create_date = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.title\n    def save(self, *args, **kwargs):\n        if not self.slug:",
+        "detail": "apps.articles.models",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.models import Article\n```\n\n```python\n\n\n```\n\n```python\nclass Article(models.Model):\n    title = models.CharField(max_length=150)\n    slug = models.SlugField(blank=True, null=True, unique=True)\n    body = models.TextField(max_length=500)\n    is_public = models.BooleanField(default=True)\n    create_date = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.title\n    def save(self, *args, **kwargs):\n        if not self.slug:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Comment",
+        "kind": 6,
+        "importPath": "apps.articles.models",
+        "description": "apps.articles.models",
+        "peekOfCode": "class Comment(models.Model):\n    article = models.ForeignKey(Article, on_delete=models.CASCADE)\n    comment = models.TextField(max_length=677)\n    create_date = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.comment",
+        "detail": "apps.articles.models",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.models import Comment\n```\n\n```python\n\n\n```\n\n```python\nclass Comment(models.Model):\n    article = models.ForeignKey(Article, on_delete=models.CASCADE)\n    comment = models.TextField(max_length=677)\n    create_date = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.comment\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "apps.articles.urls",
+        "description": "apps.articles.urls",
+        "peekOfCode": "app_name = 'articles'\nurlpatterns = [\n    # path('', views.index, name='list'),\n    # path('myview/', views.MyView.as_view(), name='view'),\n    path('', views.ArticleView.as_view(), name='list'),\n    path('<int:pk>/<slug:slug>', views.ArticleDetailView.as_view(), name='detail'),\n    path('article-update/<int:pk>/<slug:slug>', views.ArticleUpdateView.as_view(), name='update'),\n    path('article-delete/<int:pk>/<slug:slug>', views.ArticleDeleteView.as_view(), name='delete'),\n    path('article-comment/<int:pk>/<slug:slug>', views.CommentCreateView.as_view(), name='comment'),\n    path('article-create', views.ArticleCreateView.as_view(), name='create'),",
+        "detail": "apps.articles.urls",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.urls import app_name\n```\n\n```python\n\n\n```\n\n```python\napp_name = 'articles'\nurlpatterns = [\n    # path('', views.index, name='list'),\n    # path('myview/', views.MyView.as_view(), name='view'),\n    path('', views.ArticleView.as_view(), name='list'),\n    path('<int:pk>/<slug:slug>', views.ArticleDetailView.as_view(), name='detail'),\n    path('article-update/<int:pk>/<slug:slug>', views.ArticleUpdateView.as_view(), name='update'),\n    path('article-delete/<int:pk>/<slug:slug>', views.ArticleDeleteView.as_view(), name='delete'),\n    path('article-comment/<int:pk>/<slug:slug>', views.CommentCreateView.as_view(), name='comment'),\n    path('article-create', views.ArticleCreateView.as_view(), name='create'),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "apps.articles.urls",
+        "description": "apps.articles.urls",
+        "peekOfCode": "urlpatterns = [\n    # path('', views.index, name='list'),\n    # path('myview/', views.MyView.as_view(), name='view'),\n    path('', views.ArticleView.as_view(), name='list'),\n    path('<int:pk>/<slug:slug>', views.ArticleDetailView.as_view(), name='detail'),\n    path('article-update/<int:pk>/<slug:slug>', views.ArticleUpdateView.as_view(), name='update'),\n    path('article-delete/<int:pk>/<slug:slug>', views.ArticleDeleteView.as_view(), name='delete'),\n    path('article-comment/<int:pk>/<slug:slug>', views.CommentCreateView.as_view(), name='comment'),\n    path('article-create', views.ArticleCreateView.as_view(), name='create'),\n    # path('<int:pk>/<str:slug>/', views.ArticleDetailView.as_view(), name='detail'),",
+        "detail": "apps.articles.urls",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    # path('', views.index, name='list'),\n    # path('myview/', views.MyView.as_view(), name='view'),\n    path('', views.ArticleView.as_view(), name='list'),\n    path('<int:pk>/<slug:slug>', views.ArticleDetailView.as_view(), name='detail'),\n    path('article-update/<int:pk>/<slug:slug>', views.ArticleUpdateView.as_view(), name='update'),\n    path('article-delete/<int:pk>/<slug:slug>', views.ArticleDeleteView.as_view(), name='delete'),\n    path('article-comment/<int:pk>/<slug:slug>', views.CommentCreateView.as_view(), name='comment'),\n    path('article-create', views.ArticleCreateView.as_view(), name='create'),\n    # path('<int:pk>/<str:slug>/', views.ArticleDetailView.as_view(), name='detail'),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ArticleListView",
+        "kind": 6,
+        "importPath": "apps.articles.views",
+        "description": "apps.articles.views",
+        "peekOfCode": "class ArticleListView(View):\n    def get(self, request, *args, **kwargs):\n        return render(request, 'articles/list.html', {'now': datetime.now()})\n\"\"\"\n\"\"\"\n                     TemplateView In Django \n    import : from django.views.generic import TemplateView\n    class MyView(TemplateView):\n        template_name = \"articles/list.html\"\n    def get_context_data(self, **kwargs):",
+        "detail": "apps.articles.views",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.views import ArticleListView\n```\n\n```python\n\n\n```\n\n```python\nclass ArticleListView(View):\n    def get(self, request, *args, **kwargs):\n        return render(request, 'articles/list.html', {'now': datetime.now()})\n\"\"\"\n\"\"\"\n                     TemplateView In Django \n    import : from django.views.generic import TemplateView\n    class MyView(TemplateView):\n        template_name = \"articles/list.html\"\n    def get_context_data(self, **kwargs):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ArticleView",
+        "kind": 6,
+        "importPath": "apps.articles.views",
+        "description": "apps.articles.views",
+        "peekOfCode": "class ArticleView(View):\n    def get(self, request, *args, **kwargs):\n        articles = Article.objects.all()\n        context = {\n            'articles': articles,\n        }\n        return render(request, 'articles/list.html', context=context)\n                                 /////////////////////////////////\nclass ArticleView(TemplateView):\n    template_name = \"articles/list.html\"",
+        "detail": "apps.articles.views",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.views import ArticleView\n```\n\n```python\n\n\n```\n\n```python\nclass ArticleView(View):\n    def get(self, request, *args, **kwargs):\n        articles = Article.objects.all()\n        context = {\n            'articles': articles,\n        }\n        return render(request, 'articles/list.html', context=context)\n                                 /////////////////////////////////\nclass ArticleView(TemplateView):\n    template_name = \"articles/list.html\"\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ArticleView",
+        "kind": 6,
+        "importPath": "apps.articles.views",
+        "description": "apps.articles.views",
+        "peekOfCode": "class ArticleView(TemplateView):\n    template_name = \"articles/list.html\"\n    def get_context_data(self, **kwargs):\n        context = super(ArticleView, self).get_context_data(**kwargs)\n        articles = Article.objects.all()\n        context['articles'] = articles\n        return context\n                                    /////////////////////////////////\nclass ArticleView(ListView):\n    model = Article",
+        "detail": "apps.articles.views",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.views import ArticleView\n```\n\n```python\n\n\n```\n\n```python\nclass ArticleView(TemplateView):\n    template_name = \"articles/list.html\"\n    def get_context_data(self, **kwargs):\n        context = super(ArticleView, self).get_context_data(**kwargs)\n        articles = Article.objects.all()\n        context['articles'] = articles\n        return context\n                                    /////////////////////////////////\nclass ArticleView(ListView):\n    model = Article\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ArticleView",
+        "kind": 6,
+        "importPath": "apps.articles.views",
+        "description": "apps.articles.views",
+        "peekOfCode": "class ArticleView(ListView):\n    model = Article\n    queryset=Article.objects.filter(is_public = True)\n    context_object_name = 'articles'\n    template_name='articles/list.html'\n    def get_context_data(self, **kwargs):\n        context = super(ArticleView, self).get_context_data(**kwargs)\n        context['page_title'] = 'Article List Page'\n        return context\n\"\"\"",
+        "detail": "apps.articles.views",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.views import ArticleView\n```\n\n```python\n\n\n```\n\n```python\nclass ArticleView(ListView):\n    model = Article\n    queryset=Article.objects.filter(is_public = True)\n    context_object_name = 'articles'\n    template_name='articles/list.html'\n    def get_context_data(self, **kwargs):\n        context = super(ArticleView, self).get_context_data(**kwargs)\n        context['page_title'] = 'Article List Page'\n        return context\n\"\"\"\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ArticleView",
+        "kind": 6,
+        "importPath": "apps.articles.views",
+        "description": "apps.articles.views",
+        "peekOfCode": "class ArticleView(PageTitleMixin, PublicMixin, ListView):\n    model = Article\n    page_title = 'Article List Page'\n    template_name = 'articles/list.html'\nclass ArticleDetailView(PageTitleMixin, DetailView):\n    model = Article\n    template_name = \"articles/detail.html\"\n    query_pk_and_slug = True\n    def get_object(self, queryset=None):\n        obj = super().get_object(queryset=queryset)",
+        "detail": "apps.articles.views",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.views import ArticleView\n```\n\n```python\n\n\n```\n\n```python\nclass ArticleView(PageTitleMixin, PublicMixin, ListView):\n    model = Article\n    page_title = 'Article List Page'\n    template_name = 'articles/list.html'\nclass ArticleDetailView(PageTitleMixin, DetailView):\n    model = Article\n    template_name = \"articles/detail.html\"\n    query_pk_and_slug = True\n    def get_object(self, queryset=None):\n        obj = super().get_object(queryset=queryset)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ArticleDetailView",
+        "kind": 6,
+        "importPath": "apps.articles.views",
+        "description": "apps.articles.views",
+        "peekOfCode": "class ArticleDetailView(PageTitleMixin, DetailView):\n    model = Article\n    template_name = \"articles/detail.html\"\n    query_pk_and_slug = True\n    def get_object(self, queryset=None):\n        obj = super().get_object(queryset=queryset)\n        self.page_title = obj.title\n        return obj\nclass ArticleCreateView(PageTitleMixin, CreateView):\n    model = Article",
+        "detail": "apps.articles.views",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.views import ArticleDetailView\n```\n\n```python\n\n\n```\n\n```python\nclass ArticleDetailView(PageTitleMixin, DetailView):\n    model = Article\n    template_name = \"articles/detail.html\"\n    query_pk_and_slug = True\n    def get_object(self, queryset=None):\n        obj = super().get_object(queryset=queryset)\n        self.page_title = obj.title\n        return obj\nclass ArticleCreateView(PageTitleMixin, CreateView):\n    model = Article\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ArticleCreateView",
+        "kind": 6,
+        "importPath": "apps.articles.views",
+        "description": "apps.articles.views",
+        "peekOfCode": "class ArticleCreateView(PageTitleMixin, CreateView):\n    model = Article\n    fields = ('title', 'body', 'is_public')\n    success_url = reverse_lazy('articles:list')\n    template_name = \"articles/create.html\"\n    page_title = 'Create an Article'\nclass ArticleUpdateView(PageTitleMixin, UpdateView):\n    model = Article\n    fields = ('title', 'body', 'is_public')\n    success_url = reverse_lazy('articles:list')",
+        "detail": "apps.articles.views",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.views import ArticleCreateView\n```\n\n```python\n\n\n```\n\n```python\nclass ArticleCreateView(PageTitleMixin, CreateView):\n    model = Article\n    fields = ('title', 'body', 'is_public')\n    success_url = reverse_lazy('articles:list')\n    template_name = \"articles/create.html\"\n    page_title = 'Create an Article'\nclass ArticleUpdateView(PageTitleMixin, UpdateView):\n    model = Article\n    fields = ('title', 'body', 'is_public')\n    success_url = reverse_lazy('articles:list')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ArticleUpdateView",
+        "kind": 6,
+        "importPath": "apps.articles.views",
+        "description": "apps.articles.views",
+        "peekOfCode": "class ArticleUpdateView(PageTitleMixin, UpdateView):\n    model = Article\n    fields = ('title', 'body', 'is_public')\n    success_url = reverse_lazy('articles:list')\n    template_name = \"articles/update.html\"\n    query_pk_and_slug = True\n    def get_object(self, queryset=None):\n        obj = super().get_object(queryset=queryset)\n        self.page_title = obj.title\n        return obj",
+        "detail": "apps.articles.views",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.views import ArticleUpdateView\n```\n\n```python\n\n\n```\n\n```python\nclass ArticleUpdateView(PageTitleMixin, UpdateView):\n    model = Article\n    fields = ('title', 'body', 'is_public')\n    success_url = reverse_lazy('articles:list')\n    template_name = \"articles/update.html\"\n    query_pk_and_slug = True\n    def get_object(self, queryset=None):\n        obj = super().get_object(queryset=queryset)\n        self.page_title = obj.title\n        return obj\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ArticleDeleteView",
+        "kind": 6,
+        "importPath": "apps.articles.views",
+        "description": "apps.articles.views",
+        "peekOfCode": "class ArticleDeleteView(DeleteView):\n    model = Article\n    success_url = reverse_lazy('articles:list')\n    query_pk_and_slug = True\n    template_name = \"articles/delete.html\"\nclass CommentCreateView(CreateView):\n    model = Comment\n    fields = ('article', 'comment')\n    template_name = \"articles/comment.html\"\n    success_url = reverse_lazy('articles:list')",
+        "detail": "apps.articles.views",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.views import ArticleDeleteView\n```\n\n```python\n\n\n```\n\n```python\nclass ArticleDeleteView(DeleteView):\n    model = Article\n    success_url = reverse_lazy('articles:list')\n    query_pk_and_slug = True\n    template_name = \"articles/delete.html\"\nclass CommentCreateView(CreateView):\n    model = Comment\n    fields = ('article', 'comment')\n    template_name = \"articles/comment.html\"\n    success_url = reverse_lazy('articles:list')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CommentCreateView",
+        "kind": 6,
+        "importPath": "apps.articles.views",
+        "description": "apps.articles.views",
+        "peekOfCode": "class CommentCreateView(CreateView):\n    model = Comment\n    fields = ('article', 'comment')\n    template_name = \"articles/comment.html\"\n    success_url = reverse_lazy('articles:list')\n    query_pk_and_slug = True",
+        "detail": "apps.articles.views",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.views import CommentCreateView\n```\n\n```python\n\n\n```\n\n```python\nclass CommentCreateView(CreateView):\n    model = Comment\n    fields = ('article', 'comment')\n    template_name = \"articles/comment.html\"\n    success_url = reverse_lazy('articles:list')\n    query_pk_and_slug = True\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "apps.articles.views",
+        "description": "apps.articles.views",
+        "peekOfCode": "def index(request):\n    return render(request, 'articles/list.html', {})\n\"\"\"\n                                  General View In Django \nimport :\nfrom apps.articles.forms import ContactForm from django.views import View\nfrom apps.articles.forms import ContactForm\nfrom apps.articles.models import Article\nfrom DjangoClass.mixins import PageTitleMixin\nclass ArticleListView(View):",
+        "detail": "apps.articles.views",
+        "documentation": {
+            "value": "\n```python\nfrom apps.articles.views import index\n```\n\n```python\n\n\n```\n\n```python\ndef index(request):\n    return render(request, 'articles/list.html', {})\n\"\"\"\n                                  General View In Django \nimport :\nfrom apps.articles.forms import ContactForm from django.views import View\nfrom apps.articles.forms import ContactForm\nfrom apps.articles.models import Article\nfrom DjangoClass.mixins import PageTitleMixin\nclass ArticleListView(View):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "DjangoClass.asgi",
+        "description": "DjangoClass.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "DjangoClass.asgi",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.asgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_asgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PublicMixin",
+        "kind": 6,
+        "importPath": "DjangoClass.mixins",
+        "description": "DjangoClass.mixins",
+        "peekOfCode": "class PublicMixin:\n    is_public_field = 'is_public'\n    @property\n    def get_is_public(self):\n        return {self.is_public_field: True}\n    def get_queryset(self):\n        if self.model:\n            return self.model._default_manager.filter(**self.get_is_public)\n        elif self.queryset:\n            return self.queryset.filter(**self.get_is_public)",
+        "detail": "DjangoClass.mixins",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.mixins import PublicMixin\n```\n\n```python\n\n\n```\n\n```python\nclass PublicMixin:\n    is_public_field = 'is_public'\n    @property\n    def get_is_public(self):\n        return {self.is_public_field: True}\n    def get_queryset(self):\n        if self.model:\n            return self.model._default_manager.filter(**self.get_is_public)\n        elif self.queryset:\n            return self.queryset.filter(**self.get_is_public)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PageTitleMixin",
+        "kind": 6,
+        "importPath": "DjangoClass.mixins",
+        "description": "DjangoClass.mixins",
+        "peekOfCode": "class PageTitleMixin:\n    page_title = ''\n    def get_page_title(self):\n        return self.page_title\n    def get_context_data(self, *args, **kwargs):\n        context = super().get_context_data(*args, **kwargs)\n        context['page_title'] = self.get_page_title()\n        return context",
+        "detail": "DjangoClass.mixins",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.mixins import PageTitleMixin\n```\n\n```python\n\n\n```\n\n```python\nclass PageTitleMixin:\n    page_title = ''\n    def get_page_title(self):\n        return self.page_title\n    def get_context_data(self, *args, **kwargs):\n        context = super().get_context_data(*args, **kwargs)\n        context['page_title'] = self.get_page_title()\n        return context\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve(strict=True).parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'd6u@26l!=ttr#9kni333!aian+j(emd1(@pz+%4eg2w4yt!90x'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import BASE_DIR\n```\n\n```python\n\n\n```\n\n```python\nBASE_DIR = Path(__file__).resolve(strict=True).parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'd6u@26l!=ttr#9kni333!aian+j(emd1(@pz+%4eg2w4yt!90x'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "SECRET_KEY = 'd6u@26l!=ttr#9kni333!aian+j(emd1(@pz+%4eg2w4yt!90x'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = 'd6u@26l!=ttr#9kni333!aian+j(emd1(@pz+%4eg2w4yt!90x'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import DEBUG\n```\n\n```python\n\n\n```\n\n```python\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'apps.articles',",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import ALLOWED_HOSTS\n```\n\n```python\n\n\n```\n\n```python\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'apps.articles',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'apps.articles',\n    'crispy_forms',\n]",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import INSTALLED_APPS\n```\n\n```python\n\n\n```\n\n```python\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'apps.articles',\n    'crispy_forms',\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'DjangoClass.urls'",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import MIDDLEWARE\n```\n\n```python\n\n\n```\n\n```python\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'DjangoClass.urls'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "ROOT_URLCONF = 'DjangoClass.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR, 'templates')]+[],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import ROOT_URLCONF\n```\n\n```python\n\n\n```\n\n```python\nROOT_URLCONF = 'DjangoClass.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR, 'templates')]+[],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR, 'templates')]+[],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import TEMPLATES\n```\n\n```python\n\n\n```\n\n```python\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR, 'templates')]+[],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'DjangoClass.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import WSGI_APPLICATION\n```\n\n```python\n\n\n```\n\n```python\nWSGI_APPLICATION = 'DjangoClass.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import DATABASES\n```\n\n```python\n\n\n```\n\n```python\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import AUTH_PASSWORD_VALIDATORS\n```\n\n```python\n\n\n```\n\n```python\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static/staticfiles')",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import LANGUAGE_CODE\n```\n\n```python\n\n\n```\n\n```python\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static/staticfiles')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static/staticfiles')\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import TIME_ZONE\n```\n\n```python\n\n\n```\n\n```python\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static/staticfiles')\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static/staticfiles')\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import USE_I18N\n```\n\n```python\n\n\n```\n\n```python\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static/staticfiles')\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static/staticfiles')\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import USE_L10N\n```\n\n```python\n\n\n```\n\n```python\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static/staticfiles')\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static/staticfiles')\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import USE_TZ\n```\n\n```python\n\n\n```\n\n```python\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static/staticfiles')\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static/staticfiles')\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import STATIC_URL\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static/staticfiles')\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static/staticfiles')\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import STATICFILES_DIRS\n```\n\n```python\n\n\n```\n\n```python\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static/staticfiles')\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, 'static/staticfiles')\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import STATIC_ROOT\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static/staticfiles')\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import MEDIA_ROOT\n```\n\n```python\n\n\n```\n\n```python\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import MEDIA_URL\n```\n\n```python\n\n\n```\n\n```python\nMEDIA_URL = '/media/'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CRISPY_TEMPLATE_PACK",
+        "kind": 5,
+        "importPath": "DjangoClass.settings",
+        "description": "DjangoClass.settings",
+        "peekOfCode": "CRISPY_TEMPLATE_PACK = 'bootstrap4'",
+        "detail": "DjangoClass.settings",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.settings import CRISPY_TEMPLATE_PACK\n```\n\n```python\n\n\n```\n\n```python\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "DjangoClass.urls",
+        "description": "DjangoClass.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('articles/', include('apps.articles.urls')),\n]\nif settings.DEBUG:\n    urlpatterns += static(settings.MEDIA_URL,\n                          document_root=settings.MEDIA_ROOT)\n    urlpatterns += static(settings.STATIC_URL,\n                          document_root=settings.STATIC_ROOT)",
+        "detail": "DjangoClass.urls",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('articles/', include('apps.articles.urls')),\n]\nif settings.DEBUG:\n    urlpatterns += static(settings.MEDIA_URL,\n                          document_root=settings.MEDIA_ROOT)\n    urlpatterns += static(settings.STATIC_URL,\n                          document_root=settings.STATIC_ROOT)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_unique_slug",
+        "kind": 2,
+        "importPath": "DjangoClass.utils",
+        "description": "DjangoClass.utils",
+        "peekOfCode": "def get_unique_slug(model_instance, slugable_field_name, slug_field_name):\n    slug = slugify(getattr(model_instance, slugable_field_name))\n    unique_slug = slug\n    extension = 1\n    ModelClass = model_instance.__class__\n    while ModelClass._default_manager.filter(\n        **{slug_field_name: unique_slug}\n    ).exists():\n        unique_slug = '{}-{}'.format(slug, extension)\n        extension += 1",
+        "detail": "DjangoClass.utils",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.utils import get_unique_slug\n```\n\n```python\n\n\n```\n\n```python\ndef get_unique_slug(model_instance, slugable_field_name, slug_field_name):\n    slug = slugify(getattr(model_instance, slugable_field_name))\n    unique_slug = slug\n    extension = 1\n    ModelClass = model_instance.__class__\n    while ModelClass._default_manager.filter(\n        **{slug_field_name: unique_slug}\n    ).exists():\n        unique_slug = '{}-{}'.format(slug, extension)\n        extension += 1\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "DjangoClass.wsgi",
+        "description": "DjangoClass.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "DjangoClass.wsgi",
+        "documentation": {
+            "value": "\n```python\nfrom DjangoClass.wsgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_wsgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom env.Scripts.activate_this import bin_dir\n```\n\n```python\n\n\n```\n\n```python\nbin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom env.Scripts.activate_this import base\n```\n\n```python\n\n\n```\n\n```python\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom env.Scripts.activate_this import os.environ[\"PATH\"]\n```\n\n```python\n\n\n```\n\n```python\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom env.Scripts.activate_this import os.environ[\"VIRTUAL_ENV\"]\n```\n\n```python\n\n\n```\n\n```python\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom env.Scripts.activate_this import prev_length\n```\n\n```python\n\n\n```\n\n```python\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom env.Scripts.activate_this import sys.path[:]\n```\n\n```python\n\n\n```\n\n```python\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom env.Scripts.activate_this import sys.real_prefix\n```\n\n```python\n\n\n```\n\n```python\nsys.real_prefix = sys.prefix\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom env.Scripts.activate_this import sys.prefix\n```\n\n```python\n\n\n```\n\n```python\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'DjangoClass.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {
+            "value": "\n```python\nfrom manage import main\n```\n\n```python\n\n\n```\n\n```python\ndef main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'DjangoClass.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]

@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+<h1 class="text-center">{{ object.title }}</h1>
+<p>Posted On : {{ object.create_date }}</p>
+<br>
+<p>{{ object.body }}</p>
+<button class="btn">
+    <a href="{% url 'articles:update' pk=article.id slug=article.slug %}" class="btn btn-sm btn-block btn-outline-secondary">Update This Article</a>
+    <a href="{% url 'articles:list' %}" class="btn btn-sm btn-block btn-outline-primary">Go back to article list</a>
+</button>
+<hr>
+<br>
+ {% for comment in object.comment_set.all %}
+
+  <p class="text-muted"> {{ comment.create_date }}</p>
+  <p class="text-muted"> {{ comment.comment|linebreaks }}</p>
+  {% empty %}
+  <p class="text-muted">Comment First</p>
+ {% endfor %}
+ <hr>
+ <a href="{% url 'articles:comment' pk=article.id slug=article.slug %}" >Add Comment</a>
+{% endblock content %}
+
